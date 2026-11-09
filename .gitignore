@@ -1,0 +1,19 @@
+# Godot 4 generated caches and imports
+.godot/
+/export/
+/build/
+export_credentials.cfg
+
+# Local session data and temporary files
+sessions.json
+sessions.json.tmp
+*.tmp
+*.log
+*~
+*.bak
+.DS_Store
+Thumbs.db
+__pycache__/
+*.py[cod]
+.env
+.env.*
